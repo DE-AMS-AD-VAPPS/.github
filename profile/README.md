@@ -1,3 +1,5 @@
+<img src="./assets/eviden-logo.svg" alt="Eviden Logo" width="200" height="200">
+
 ## Hi there 👋
 
 <!--
