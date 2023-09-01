@@ -1,4 +1,4 @@
-<img src=".github/profile/assets/eviden-logo.svg" alt="Eviden Logo" width="200" height="200">
+<img src="./profile/assets/eviden-logo.svg" alt="Eviden Logo" width="200" height="200">
 
 # .github
 
