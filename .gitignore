@@ -1,0 +1,25 @@
+# Jetbrains configurations
+.idea
+/*.iml
+
+# Webstorm Launcher
+/Start.run.xml
+
+# Node modules
+node_modules
+
+# copy for docker build
+infrastructure/local/stc5-tcm/
+
+# Mac OS files
+.DS_Store
+
+# Angular Files
+dist
+.angular
+
+# VS Code
+.vscode
+
+#Jasmine/Testing
+coverage
