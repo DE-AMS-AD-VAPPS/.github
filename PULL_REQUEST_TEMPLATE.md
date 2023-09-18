@@ -5,14 +5,13 @@
 
 ---
 
-## PR Summary
+## 📝 PR Summary
 
-<!-- Briefly describe the purpose of your pull request -->
+Briefly describe the purpose of your pull request
 
-## Type of PR
+## 📌 Type of PR
 
-<!--
-Select the appropriate type from the list below:
+Select the appropriate type from the list below and delete the unsuitable types:
 - 🍕 Feature
 - 🐛 Bug Fix
 - 📝 Documentation Update
@@ -24,80 +23,77 @@ Select the appropriate type from the list below:
 - 🔁 CI
 - 📦 Chore (Release)
 - ⏩ Revert
--->
 
-## Change Impact
+## ⛏ Change Impact
 
-<!--
 Indicate the impact level of your changes:
 - ✔️ Low
 - ⚠️ Moderate
 - 🔥 High
--->
 
-## PR Description
+## 🗒️ PR Description
 
-<!--
-Provide a detailed description of your changes. Mention the problem you're addressing and the solution you're proposing.
--->
+Provide a detailed description of your changes. Mention the problem you're addressing and the solution you're proposing
 
-## Screenshot or Gif
+## 🖼️ Screenshot or Gif
 
-<!-- If your changes are visual, add a screenshot or GIF. Delete this section if not applicable. -->
+If your changes are visual, add a screenshot or GIF. Delete this section if not applicable
 
-## Applicable Ticket
+## 🎫 Applicable Ticket
 
-<!--
 Link your Jira Ticket using the "Fixes #JIRA-KEY" or "Closes #JIRA-KEY" syntax and provide a brief description.
-Example: Fixes #[JOL-000](https://jiraURL.de/browse/JOL-000): optional description
--->
+
+Example:
+
+- Fixes #[VAPPS-000](https://jira.fsc.atos-services.net/projects/STCDEV/VAPPS-000): optional description
 
 ---
 
 ## Additional Information (Optional)
 
-### Requirements
+### 🧫 Steps to reproduce and test
+
+- Who can the PR reviewer test the changes?
 
 <!--
-List any specific requirements related to your changes (e.g., dependencies, versions).
-Example:
+Step1: Install ``npm install my-package --save-dev``
+Step2: Run ``npm run test``
+-->
+
+### 📋 Requirements
+
+List any specific requirements related to your changes (e.g., dependencies, versions)
+
+<!--
 - "@angular/animations": "^16.0.3"
 -->
 
-### Added tests?
+### 🧪 Added tests ?
 
 - [ ] 👍 Yes
 
-<!--
 If no, explain why:
 - 🙅 No, they aren't needed
 - 🙋 No, I need help
 - 💬 To be discussed
--->
 
-### Added to documentation?
+### 📘 Added to documentation?
 
 - [ ] 👍 Yes
 
-<!--
 Specify where the documentation has been updated or if it's not needed:
 - 📜 [README.md](README.md)
 - 📓 Confluence
 - 🙅 No documentation needed
 - 💬 To be discussed
 - 📕 [Storybook](https://storybook.js.org/)
--->
 
-<!-- ### Post-deployment tasks -->
+### 😄 What gif/mood best describes this PR or how it makes you feel?
 
-### What gif/mood best describes this PR or how it makes you feel?
-
-<!--
 Choose an appropriate emoji to express your feeling:
 - :godmode:
 - :suspect:
 - :rage1:
 - :rage2:
--->
 
 <!-- https://chrome.google.com/webstore/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep -->
