@@ -53,7 +53,7 @@ Example:
 
 ### 🧫 Steps to reproduce and test
 
-- Who can the PR reviewer test the changes?
+- How can the PR reviewer test the changes?
 
 <!--
 Step1: Install ``npm install my-package --save-dev``
